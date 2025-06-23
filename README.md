@@ -33,8 +33,8 @@ Ensure you have the following installed:
 Installation
 1. Clone the repository:
 ```bash
-git clone
-cd vite-todo-list
+git clone git@github.com:kpCoder2801/quocdat-todo-list-mini-assignment.git
+cd quocdat-todo-list-mini-assignment
 ```
 2. Install dependencies:
 
