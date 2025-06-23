@@ -1,0 +1,7 @@
+### GET Todo List
+GET http://localhost:8080/todos?_page=2 HTTP/1.1
+Content-Type: application/json
+
+### GET Categories
+GET http://localhost:8080/categories HTTP/1.1
+Content-Type: application/json
